@@ -1,0 +1,6 @@
+2024-09-03 02:16:12.199147+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO" not found; SQL statement:
+select * from todo-items [42102-224]
+2024-09-03 02:16:24.928163+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO_ITEMS" not found; SQL statement:
+select * from TODO_ITEMS [42102-224]
